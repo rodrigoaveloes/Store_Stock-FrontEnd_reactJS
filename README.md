@@ -21,8 +21,8 @@ Link do repositório da api 👉 https://github.com/rodrigoaveloes/Store_Stock-B
 Instale my-project com npm
 
 ```bash
-  npm install my-project
-  cd my-project
+  npm install Store_Stock-FrontEnd
+  cd Store_Stock-FrontEnd
 ```
     
 ## Rodando localmente
