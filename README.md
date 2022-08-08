@@ -63,5 +63,5 @@ Inicie o servidor
 
 **Front-end:** React, TailwindCSS, Vite, Typescript, React hook form & React Router Dom
 
-**Back-end:** Node, ExpressJs & Sequelize como ORM
+**Back-end:** Node, ExpressJs & Sequelize como ORM e MySql como Banco de dados
 
