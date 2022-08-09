@@ -3,7 +3,7 @@
 
 Criei um sistema de estoque de uma loja, em que é possivel adicionar  um novo produto , atualizar e deletar.
 consumindo dados da api que construi em NodeJs.
-Link do repositório da api 👉 https://github.com/rodrigoaveloes/Store_Stock-Backend
+Link do repositório da api 👉 https://github.com/rodrigoaveloes/Store_Stock-Backend-nodeJS
 
 
 
@@ -30,13 +30,13 @@ Instale my-project com npm
 Clone o projeto
 
 ```bash
-  git clone https://github.com/rodrigoaveloes/Store_Stock-FrontEnd
+  git clone https://github.com/rodrigoaveloes/Store_Stock-FrontEnd_reactJS
 ```
 
 Entre no diretório do projeto
 
 ```bash
-  cd Store_Stock-FrontEnd
+  cd Store_Stock-FrontEnd_reactJS
 ```
 
 Instale as dependências
