@@ -11,9 +11,9 @@ Link do repositório da api 👉 https://github.com/rodrigoaveloes/Store_Stock-A
 ## Demonstração
 
 ![App Screenshot](https://i.imgur.com/ETdRPMF.png)
-
-
+![App Screenshot](https://i.imgur.com/wOKfBGW.png](https://i.imgur.com/69tED8Q.png)
 ![App Screenshot](https://i.imgur.com/wOKfBGW.png)
+
 
 
 ## Instalação
