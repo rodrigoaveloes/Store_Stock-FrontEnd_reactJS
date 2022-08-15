@@ -10,10 +10,10 @@ Link do repositório da api 👉 https://github.com/rodrigoaveloes/Store_Stock-A
 
 ## Demonstração
 
-![App Screenshot](https://i.imgur.com/EmmHv3i.png)
+![App Screenshot](https://i.imgur.com/ETdRPMF.png)
 
 
-![App Screenshot](https://i.imgur.com/ySOM3Qe.png)
+![App Screenshot](https://i.imgur.com/wOKfBGW.png)
 
 
 ## Instalação
