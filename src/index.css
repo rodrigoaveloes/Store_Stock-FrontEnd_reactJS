@@ -5,3 +5,15 @@
 *{
     font-family: 'Poppins', sans-serif;
 }
+
+.custom-input{
+ @apply bg-gray-50 border border-gray-300 text-gray-900 text-sm rounded-lg   block w-full p-2.5 
+}
+
+.custom-label{
+@apply block mb-1 text-sm font-medium text-gray-900 dark:text-gray-300
+}
+
+.custom-button{
+    @apply text-white bg-lime-500 hover:bg-lime-600  focus:ring-4 focus:outline-none transform hover:scale-110  font-medium rounded-lg text-sm w-full sm:w-auto px-5 py-2.5 text-center transition duration-300 delay-150
+}

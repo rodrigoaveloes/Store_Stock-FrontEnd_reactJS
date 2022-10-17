@@ -13,9 +13,11 @@
     "axios": "^0.27.2",
     "qs": "^6.11.0",
     "react": "^18.2.0",
+    "react-currency-input-field": "^3.6.4",
     "react-dom": "^18.2.0",
     "react-hook-form": "^7.34.0",
     "react-hot-toast": "^2.3.0",
+    "react-number-format": "^4.9.3",
     "react-router-dom": "^6.3.0"
   },
   "devDependencies": {

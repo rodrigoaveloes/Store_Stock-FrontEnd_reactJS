@@ -1,5 +1,5 @@
 
-export interface IFormInputs {
+export interface ProductType {
     id: number;
     name: string
     price: string
